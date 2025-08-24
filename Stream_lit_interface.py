@@ -45,7 +45,8 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.title("Car Price Prediction")
+# st.title("Car Price Prediction")
 
 # Compare this snippet from Linear%20Regression%20Car%20P01/quikr_car_price_pridictions_prac_01.py: 
+
 
